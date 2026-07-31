@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6D001A&height=180&section=header&text=Esha%20Mirza&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20in%20the%20Making&descAlignY=58&descColor=FFFFFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:6D001A,100:000000&height=220&section=header&text=ESHA%20MIRZA&fontSize=48&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn" width="100%"/>
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=6D001A&background=00000000&center=true&vCenter=true&width=600&lines=BS+Artificial+Intelligence+%40+Bahria+University;AI%2FML+Intern+%40+School+of+AI;Building+with+NLP+%2C+CV+%2C+and+Multi-Agent+Systems;25%2B+AI+Projects+Shipped)](https://git.io/typing-svg)
+<h3>Machine Learning Engineer &nbsp;|&nbsp; BS Artificial Intelligence, Bahria University &nbsp;|&nbsp; AI/ML Intern @ School of AI</h3>
 
 <br/>
 
@@ -15,25 +13,15 @@
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:0D0D0D&height=2&section=header" width="100%"/>
 
-```yaml
-name: Esha Mirza
-role: Machine Learning Engineer in training
-education: BS Artificial Intelligence, Bahria University (BS-AI-4A)
-internship: AI/ML Intern @ School of AI
-focus: NLP · Healthcare AI · Legal Tech · Multi-Agent Systems
-currently: Deepening CNN & deep learning fundamentals
-looking_for: ML Engineering internships & entry-level roles
-fun_fact: Also interning in fashion design at Rakh — code by day, couture by night
-```
+## About Me
 
-- 🔭 Building a portfolio of production-style AI tools, not just notebooks
-- 🧠 Currently deep in CNNs, convolutions, and the math behind deep learning
-- 🌱 Sharpening skills across NLP, healthcare analytics, and multi-agent systems
-- 🎨 Also designing streetwear at **Rakh** — I like my work to look as good as it performs
-- 💬 Ask me about applied AI projects or Pakistani streetwear design
-- 📫 Reach me on LinkedIn above
+I'm a final-year BS Artificial Intelligence student at Bahria University, currently working as an AI/ML Intern at School of AI, where I've built and shipped 25 end-to-end AI applications across healthcare, finance, education, security, and developer tooling — with hands-on work in LLM integration, multi-agent systems, and applied NLP.
+
+I care about building tools that hold up outside a notebook: clear structure, real documentation, and interfaces someone other than me could actually use. Right now I'm deepening my grounding in CNNs and deep learning fundamentals, and actively looking for ML engineering internships and entry-level roles where I can keep building at that level.
+
+Outside of AI, I intern on the design track at **Rakh**, a Pakistani streetwear label — which is probably why I care this much about how my own GitHub looks.
 
 <br/>
 
@@ -57,60 +45,44 @@ fun_fact: Also interning in fashion design at Rakh — code by day, couture by n
 
 <br/>
 
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="28"> Featured Projects
+## Featured Projects
 
-<div align="center">
-
-<table>
+<table width="100%">
+<thead>
 <tr>
-<td width="50%">
-
-### 🧠 [School of AI Internship Portfolio](https://github.com/Esha-Mirza/School_Of_AI_Internsihp)
-25 end-to-end AI applications spanning healthcare, finance, education, security, and dev tools — LLM integration, multi-agent systems, and full documentation for every project.
-
-`Python` `LLMs` `Multi-Agent` `NLP`
-
-</td>
-<td width="50%">
-
-### 🏥 [Hospital Bed Management Analysis](https://github.com/Esha-Mirza/Hospital-Bed-Management-Staff-and-Patient-Analysis)
-Data-driven analysis of hospital bed utilization, staffing, and patient flow — occupancy rates, staffing metrics, and demographic trends to optimize healthcare operations.
-
-`Python` `Pandas` `Data Analysis`
-
-</td>
+<th align="left" width="26%">Project</th>
+<th align="left" width="52%">Description</th>
+<th align="left" width="22%">Stack</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/Esha-Mirza/School_Of_AI_Internsihp"><b>School of AI Internship Portfolio</b></a></td>
+<td>25 end-to-end AI applications spanning healthcare, finance, education, security, and developer tools, with LLM integration and multi-agent systems throughout.</td>
+<td>Python · LLMs · NLP</td>
 </tr>
 <tr>
-<td width="50%">
-
-### 🎮 [GenZ Life Simulator](https://github.com/Esha-Mirza/GenZ-Life-Simulator-ESM)
-Interactive life-simulation game for Gen Z experiences — social scenarios, digital wellness management, and career choices with branching consequences.
-
-`Python` `Game Design` `Simulation`
-
-</td>
-<td width="50%">
-
-### 🏎️ [Road Runner](https://github.com/Esha-Mirza/Road-Runner-ASM)
-ASCII-art car racing game built entirely in x86 Assembly (MASM) using the Irvine32 library — obstacle dodging, lives system, and rising difficulty.
-
-`Assembly` `MASM` `Low-Level Systems`
-
-</td>
+<td><a href="https://github.com/Esha-Mirza/Hospital-Bed-Management-Staff-and-Patient-Analysis"><b>Hospital Bed Management Analysis</b></a></td>
+<td>Data-driven analysis of hospital bed utilization, staffing, and patient flow to identify inefficiencies in occupancy and staffing allocation.</td>
+<td>Python · Pandas</td>
 </tr>
 <tr>
-<td width="50%" colspan="2" align="center">
-
-### 🏧 [ATM System](https://github.com/Esha-Mirza/ATM-System)
-Console-based ATM simulation in C++ with file-based storage — account creation, PIN authentication, balance inquiry, withdrawals with daily limits, and fast-cash presets.
-
-`C++` `File I/O` `OOP`
-
-</td>
+<td><a href="https://github.com/Esha-Mirza/GenZ-Life-Simulator-ESM"><b>GenZ Life Simulator</b></a></td>
+<td>Interactive life-simulation game modeling social scenarios, digital wellness, and career decisions with branching consequences.</td>
+<td>Python</td>
 </tr>
+<tr>
+<td><a href="https://github.com/Esha-Mirza/Road-Runner-ASM"><b>Road Runner</b></a></td>
+<td>ASCII-art car racing game built entirely in x86 Assembly using the Irvine32 library, with obstacle dodging and rising difficulty.</td>
+<td>Assembly (MASM)</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Esha-Mirza/ATM-System"><b>ATM System</b></a></td>
+<td>Console-based ATM simulation with file-based storage — account creation, PIN authentication, balance inquiry, and withdrawal limits.</td>
+<td>C++</td>
+</tr>
+</tbody>
 </table>
-
-</div>
 
 <br/>
 
