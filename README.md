@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/header-banner.jpg" width="100%"/>
 
-<br/>
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6D001A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esha-mirza1623)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Esha-Mirza)
@@ -15,11 +15,11 @@
 
 ## About Me
 
-I'm a final-year BS Artificial Intelligence student at Bahria University, currently working as an AI/ML Intern at School of AI, where I've built and shipped 25 end-to-end AI applications across healthcare, finance, education, security, and developer tooling — with hands-on work in LLM integration, multi-agent systems, and applied NLP.
+Hi, I'm Esha 
 
-I care about building tools that hold up outside a notebook: clear structure, real documentation, and interfaces someone other than me could actually use. Right now I'm deepening my grounding in CNNs and deep learning fundamentals, and actively looking for ML engineering internships and entry-level roles where I can keep building at that level.
+BS Artificial Intelligence student (BS-AI-4A) at Bahria University, Islamabad. I recently completed an AI/ML internship at School of AI, where I built and shipped 25 AI/ML projects spanning NLP, healthcare, legal tech, finance, and multi-agent systems.
 
-Outside of AI, I intern on the design track at **Rakh**, a Pakistani streetwear label — which is probably why I care this much about how my own GitHub looks.
+I'm working toward becoming a Machine Learning Engineer, and I like building things that are useful, not just notebooks that run once and get forgotten.
 
 <br/>
 
