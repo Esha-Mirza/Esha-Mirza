@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/divider-nebula-1.jpg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/header-banner.jpg" width="100%"/>
 
 <br/><br/>
 
@@ -11,45 +11,21 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/section-about.png" width="100%"/>
+## About Me
 
 <br/>
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr>
-<td width="32%" align="center" valign="top">
-<img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/WhatsApp%20Image%202026-08-01%20at%203.11.44%20PM.jpeg" width="90%" style="border-radius:8px;"/>
-</td>
-<td width="68%" valign="top">
-
-I'm a **BS Artificial Intelligence** student at Bahria University, currently working as an **AI/ML Intern at School of AI**, where I've designed and shipped **25 end-to-end AI applications** spanning healthcare, legal tech, finance, NLP, and multi-agent systems.
-
-I care about building things that hold up outside a notebook — clean structure, real documentation, and interfaces someone other than me could actually use. Right now I'm deepening my grounding in **CNNs and deep learning fundamentals** — convolutions, weights, biases, and activation functions — while continuing to ship production-style projects in Python, scikit-learn, and TensorFlow.
-
-I'm actively looking for **Machine Learning Engineering internships and entry-level roles** where I can keep building at that level.
+<div align="center">
+<img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/about-panel.jpg" width="100%" alt="About Esha Mirza — BS Artificial Intelligence student at Bahria University, AI/ML Intern at School of AI. Quick facts: BS-AI Bahria University, AI/ML Intern at School of AI, 25+ shipped AI projects, focus on NLP, CV, and multi-agent systems, design intern at Rakh, based in Islamabad, Pakistan."/>
+</div>
 
 <br/>
 
-**Quick Facts**
-
-🎓 &nbsp;BS Artificial Intelligence, Bahria University
-🧪 &nbsp;AI/ML Intern @ School of AI
-📦 &nbsp;25+ shipped AI projects
-🧠 &nbsp;Focus: NLP · Computer Vision · Multi-Agent Systems
-💼 &nbsp;Open to ML Engineering internships & entry-level roles
-📍 &nbsp;Islamabad, Pakistan
-
-</td>
-</tr>
-</table>
+<div align="center"><img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/break-nebula.jpg" width="100%"/></div>
 
 <br/>
 
-<div align="center"><img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/divider-nebula-2.jpg" width="100%"/></div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/section-tech.png" width="100%"/>
+## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="28"> Tech Stack
 
 <br/>
 
@@ -69,9 +45,13 @@ I'm actively looking for **Machine Learning Engineering internships and entry-le
 
 </div>
 
-<br/><br/>
+<br/>
 
-<img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/section-projects.png" width="100%"/>
+<div align="center"><img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/break-pixel.jpg" width="100%"/></div>
+
+<br/>
+
+## Featured Projects
 
 <br/>
 
@@ -81,7 +61,7 @@ I'm actively looking for **Machine Learning Engineering internships and entry-le
 
 <tr>
 <td width="70%" valign="top">
-<h3>🧠 &nbsp;<a href="https://github.com/Esha-Mirza/School_Of_AI_Internsihp">School of AI Internship Portfolio</a></h3>
+<h3><img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/icon-ai.png" width="34" valign="middle"/> &nbsp;<a href="https://github.com/Esha-Mirza/School_Of_AI_Internsihp">School of AI Internship Portfolio</a></h3>
 <p>25 end-to-end AI applications spanning healthcare, finance, education, security, and developer tools, with LLM integration and multi-agent systems throughout.</p>
 <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/LLMs-6D001A?style=flat-square"/> <img src="https://img.shields.io/badge/NLP-6D001A?style=flat-square"/> <img src="https://img.shields.io/badge/Multi--Agent-6D001A?style=flat-square"/>
 </td>
@@ -94,7 +74,7 @@ I'm actively looking for **Machine Learning Engineering internships and entry-le
 
 <tr>
 <td width="70%" valign="top">
-<h3>🏥 &nbsp;<a href="https://github.com/Esha-Mirza/Hospital-Bed-Management-Staff-and-Patient-Analysis">Hospital Bed Management Analysis</a></h3>
+<h3><img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/icon-hospital.png" width="34" valign="middle"/> &nbsp;<a href="https://github.com/Esha-Mirza/Hospital-Bed-Management-Staff-and-Patient-Analysis">Hospital Bed Management Analysis</a></h3>
 <p>Data-driven analysis of hospital bed utilization, staffing, and patient flow to identify inefficiencies in occupancy and staffing allocation.</p>
 <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-6D001A?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Data%20Analysis-6D001A?style=flat-square"/>
 </td>
@@ -107,7 +87,7 @@ I'm actively looking for **Machine Learning Engineering internships and entry-le
 
 <tr>
 <td width="70%" valign="top">
-<h3>🎮 &nbsp;<a href="https://github.com/Esha-Mirza/GenZ-Life-Simulator-ESM">GenZ Life Simulator</a></h3>
+<h3><img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/icon-genz.png" width="34" valign="middle"/> &nbsp;<a href="https://github.com/Esha-Mirza/GenZ-Life-Simulator-ESM">GenZ Life Simulator</a></h3>
 <p>Interactive life-simulation game modeling social scenarios, digital wellness, and career decisions with branching consequences.</p>
 <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Game%20Design-6D001A?style=flat-square"/> <img src="https://img.shields.io/badge/Simulation-6D001A?style=flat-square"/>
 </td>
@@ -120,7 +100,7 @@ I'm actively looking for **Machine Learning Engineering internships and entry-le
 
 <tr>
 <td width="70%" valign="top">
-<h3>🏎️ &nbsp;<a href="https://github.com/Esha-Mirza/Road-Runner-ASM">Road Runner</a></h3>
+<h3><img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/icon-roadrunner.png" width="34" valign="middle"/> &nbsp;<a href="https://github.com/Esha-Mirza/Road-Runner-ASM">Road Runner</a></h3>
 <p>ASCII-art car racing game built entirely in x86 Assembly using the Irvine32 library, with obstacle dodging and rising difficulty.</p>
 <img src="https://img.shields.io/badge/Assembly-000000?style=flat-square&logo=assemblyscript&logoColor=white"/> <img src="https://img.shields.io/badge/MASM-6D001A?style=flat-square"/> <img src="https://img.shields.io/badge/Low--Level%20Systems-6D001A?style=flat-square"/>
 </td>
@@ -133,7 +113,7 @@ I'm actively looking for **Machine Learning Engineering internships and entry-le
 
 <tr>
 <td width="70%" valign="top">
-<h3>🏧 &nbsp;<a href="https://github.com/Esha-Mirza/ATM-System">ATM System</a></h3>
+<h3><img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/icon-atm.png" width="34" valign="middle"/> &nbsp;<a href="https://github.com/Esha-Mirza/ATM-System">ATM System</a></h3>
 <p>Console-based ATM simulation with file-based storage — account creation, PIN authentication, balance inquiry, and withdrawal limits.</p>
 <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/File%20I%2FO-6D001A?style=flat-square"/> <img src="https://img.shields.io/badge/OOP-6D001A?style=flat-square"/>
 </td>
@@ -148,13 +128,16 @@ I'm actively looking for **Machine Learning Engineering internships and entry-le
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/section-stats.png" width="100%"/>
+<div align="center"><img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/break-nebula.jpg" width="100%"/></div>
 
 <br/>
 
+## <img src="https://media.giphy.com/media/L59yAmzOOF9x2/giphy.gif" width="28"> GitHub Stats
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Esha-Mirza&show_icons=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=D4145A&text_color=FFFFFF&icon_color=D4145A&ring_color=6D001A" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Esha-Mirza&show_icons=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=D4145A&text_color=FFFFFF&icon_color=D4145A&ring_color=6D001A" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Esha-Mirza&hide_border=true&background=0D0D0D&stroke=6D001A&ring=D4145A&fire=D4145A&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esha-Mirza&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=D4145A&text_color=FFFFFF&langs_count=8" width="60%"/>
 
@@ -169,11 +152,13 @@ I'm actively looking for **Machine Learning Engineering internships and entry-le
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/divider-texture.jpg" width="100%"/>
-</div>
+
+### Let's build something.
+
+*Currently open to ML Engineering internships & entry-level roles*
 
 <br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/footer-banner.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/footer-banner.jpg" width="100%"/>
+
 </div>
