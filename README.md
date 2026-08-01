@@ -2,10 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/header-banner.jpg" width="100%"/>
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/avatar-badge.png" width="120"/>
-
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6D001A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esha-mirza1623)
@@ -13,47 +9,19 @@
 
 </div>
 
-<br/>
-
-<div align="center"><img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/divider.jpg" width="100%"/></div>
-
-<br/>
+<br/><br/>
 
 ## About Me
 
 <br/>
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td width="62%" valign="top">
-
-I'm a final-year BS Artificial Intelligence student at Bahria University, currently working as an AI/ML Intern at School of AI.
+<div align="center">
+<img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/about-panel.jpg" width="100%" alt="About Esha Mirza — BS Artificial Intelligence student at Bahria University, AI/ML Intern at School of AI. Quick facts: BS-AI Bahria University, AI/ML Intern at School of AI, 25+ shipped AI projects, focus on NLP, CV, and multi-agent systems, design intern at Rakh, based in Islamabad, Pakistan."/>
+</div>
 
 <br/>
 
-Over the course of that internship I've built and shipped **25 end-to-end AI applications** across healthcare, finance, education, security, and developer tooling — with hands-on work in LLM integration, multi-agent systems, and applied NLP.
-
-<br/>
-
-I care about building tools that hold up outside a notebook: clear structure, real documentation, and interfaces someone other than me could actually use. Right now I'm deepening my grounding in **CNNs and deep learning fundamentals**, and actively looking for ML engineering internships and entry-level roles where I can keep building at that level.
-
-<br/>
-
-Outside of AI, I intern on the design track at **Rakh**, a Pakistani streetwear label — which is probably why I care this much about how my own GitHub looks.
-
-</td>
-<td width="4%"></td>
-<td width="34%" valign="top" align="center">
-
-<img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/quickfacts-panel.jpg" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center"><img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/divider.jpg" width="100%"/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/break-nebula.jpg" width="100%"/></div>
 
 <br/>
 
@@ -79,7 +47,7 @@ Outside of AI, I intern on the design track at **Rakh**, a Pakistani streetwear 
 
 <br/>
 
-<div align="center"><img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/divider.jpg" width="100%"/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/break-pixel.jpg" width="100%"/></div>
 
 <br/>
 
@@ -160,7 +128,7 @@ Outside of AI, I intern on the design track at **Rakh**, a Pakistani streetwear 
 
 <br/><br/>
 
-<div align="center"><img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/divider.jpg" width="100%"/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/break-nebula.jpg" width="100%"/></div>
 
 <br/>
 
