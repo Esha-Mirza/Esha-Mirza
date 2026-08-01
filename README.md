@@ -2,6 +2,10 @@
 
 <img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/header-banner.jpg" width="100%"/>
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/avatar-badge.png" width="120"/>
+
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6D001A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esha-mirza1623)
@@ -9,7 +13,11 @@
 
 </div>
 
-<br/><br/>
+<br/>
+
+<div align="center"><img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/divider.jpg" width="100%"/></div>
+
+<br/>
 
 ## About Me
 
@@ -35,33 +43,19 @@ Outside of AI, I intern on the design track at **Rakh**, a Pakistani streetwear 
 
 </td>
 <td width="4%"></td>
-<td width="34%" valign="top">
+<td width="34%" valign="top" align="center">
 
-<div align="center">
-
-**Quick Facts**
-
-<br/>
-
-🎓 &nbsp; BS-AI, Bahria University
-
-🧪 &nbsp; AI/ML Intern @ School of AI
-
-📦 &nbsp; 25+ shipped AI projects
-
-🧠 &nbsp; Focus: NLP · CV · Multi-Agent
-
-🎨 &nbsp; Design Intern @ Rakh
-
-📍 &nbsp; Islamabad, Pakistan
-
-</div>
+<img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/quickfacts-panel.jpg" width="100%"/>
 
 </td>
 </tr>
 </table>
 
-<br/><br/>
+<br/>
+
+<div align="center"><img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/divider.jpg" width="100%"/></div>
+
+<br/>
 
 ## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="28"> Tech Stack
 
@@ -83,7 +77,11 @@ Outside of AI, I intern on the design track at **Rakh**, a Pakistani streetwear 
 
 </div>
 
-<br/><br/>
+<br/>
+
+<div align="center"><img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/divider.jpg" width="100%"/></div>
+
+<br/>
 
 ## Featured Projects
 
@@ -95,7 +93,7 @@ Outside of AI, I intern on the design track at **Rakh**, a Pakistani streetwear 
 
 <tr>
 <td width="70%" valign="top">
-<h3><a href="https://github.com/Esha-Mirza/School_Of_AI_Internsihp">School of AI Internship Portfolio</a></h3>
+<h3><img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/icon-ai.png" width="34" valign="middle"/> &nbsp;<a href="https://github.com/Esha-Mirza/School_Of_AI_Internsihp">School of AI Internship Portfolio</a></h3>
 <p>25 end-to-end AI applications spanning healthcare, finance, education, security, and developer tools, with LLM integration and multi-agent systems throughout.</p>
 <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/LLMs-6D001A?style=flat-square"/> <img src="https://img.shields.io/badge/NLP-6D001A?style=flat-square"/> <img src="https://img.shields.io/badge/Multi--Agent-6D001A?style=flat-square"/>
 </td>
@@ -108,7 +106,7 @@ Outside of AI, I intern on the design track at **Rakh**, a Pakistani streetwear 
 
 <tr>
 <td width="70%" valign="top">
-<h3><a href="https://github.com/Esha-Mirza/Hospital-Bed-Management-Staff-and-Patient-Analysis">Hospital Bed Management Analysis</a></h3>
+<h3><img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/icon-hospital.png" width="34" valign="middle"/> &nbsp;<a href="https://github.com/Esha-Mirza/Hospital-Bed-Management-Staff-and-Patient-Analysis">Hospital Bed Management Analysis</a></h3>
 <p>Data-driven analysis of hospital bed utilization, staffing, and patient flow to identify inefficiencies in occupancy and staffing allocation.</p>
 <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-6D001A?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Data%20Analysis-6D001A?style=flat-square"/>
 </td>
@@ -121,7 +119,7 @@ Outside of AI, I intern on the design track at **Rakh**, a Pakistani streetwear 
 
 <tr>
 <td width="70%" valign="top">
-<h3><a href="https://github.com/Esha-Mirza/GenZ-Life-Simulator-ESM">GenZ Life Simulator</a></h3>
+<h3><img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/icon-genz.png" width="34" valign="middle"/> &nbsp;<a href="https://github.com/Esha-Mirza/GenZ-Life-Simulator-ESM">GenZ Life Simulator</a></h3>
 <p>Interactive life-simulation game modeling social scenarios, digital wellness, and career decisions with branching consequences.</p>
 <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Game%20Design-6D001A?style=flat-square"/> <img src="https://img.shields.io/badge/Simulation-6D001A?style=flat-square"/>
 </td>
@@ -134,7 +132,7 @@ Outside of AI, I intern on the design track at **Rakh**, a Pakistani streetwear 
 
 <tr>
 <td width="70%" valign="top">
-<h3><a href="https://github.com/Esha-Mirza/Road-Runner-ASM">Road Runner</a></h3>
+<h3><img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/icon-roadrunner.png" width="34" valign="middle"/> &nbsp;<a href="https://github.com/Esha-Mirza/Road-Runner-ASM">Road Runner</a></h3>
 <p>ASCII-art car racing game built entirely in x86 Assembly using the Irvine32 library, with obstacle dodging and rising difficulty.</p>
 <img src="https://img.shields.io/badge/Assembly-000000?style=flat-square&logo=assemblyscript&logoColor=white"/> <img src="https://img.shields.io/badge/MASM-6D001A?style=flat-square"/> <img src="https://img.shields.io/badge/Low--Level%20Systems-6D001A?style=flat-square"/>
 </td>
@@ -147,7 +145,7 @@ Outside of AI, I intern on the design track at **Rakh**, a Pakistani streetwear 
 
 <tr>
 <td width="70%" valign="top">
-<h3><a href="https://github.com/Esha-Mirza/ATM-System">ATM System</a></h3>
+<h3><img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/icon-atm.png" width="34" valign="middle"/> &nbsp;<a href="https://github.com/Esha-Mirza/ATM-System">ATM System</a></h3>
 <p>Console-based ATM simulation with file-based storage — account creation, PIN authentication, balance inquiry, and withdrawal limits.</p>
 <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/File%20I%2FO-6D001A?style=flat-square"/> <img src="https://img.shields.io/badge/OOP-6D001A?style=flat-square"/>
 </td>
@@ -161,6 +159,10 @@ Outside of AI, I intern on the design track at **Rakh**, a Pakistani streetwear 
 </table>
 
 <br/><br/>
+
+<div align="center"><img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/divider.jpg" width="100%"/></div>
+
+<br/>
 
 ## <img src="https://media.giphy.com/media/L59yAmzOOF9x2/giphy.gif" width="28"> GitHub Stats
 
