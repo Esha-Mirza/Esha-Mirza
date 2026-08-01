@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header-banner.jpg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/header-banner.jpg" width="100%"/>
 
 <br/><br/>
 
@@ -189,6 +189,6 @@ Outside of AI, I intern on the design track at **Rakh**, a Pakistani streetwear 
 
 <br/>
 
-<img src="./assets/footer-banner.jpg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/footer-banner.jpg" width="100%"/>
 
 </div>
