@@ -88,10 +88,9 @@ I'm working toward becoming a Machine Learning Engineer, and I like building thi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Esha-Mirza&show_icons=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=D4145A&text_color=FFFFFF&icon_color=D4145A&ring_color=6D001A" width="49%"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Esha-Mirza&hide_border=true&background=0D0D0D&stroke=6D001A&ring=D4145A&fire=D4145A&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esha-Mirza&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=D4145A&text_color=FFFFFF&langs_count=8" width="60%"/>
 
 </div>
 
