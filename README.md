@@ -23,7 +23,7 @@ I'm working toward becoming a Machine Learning Engineer, and I like building thi
 
 <br/>
 
-## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="28"> Tech Stack
+## Tech Stack
 
 <div align="center">
 
