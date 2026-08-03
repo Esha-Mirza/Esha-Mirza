@@ -84,7 +84,7 @@ I'm working toward becoming a Machine Learning Engineer, and I like building thi
 
 <br/>
 
-## <img src="https://media.giphy.com/media/L59yAmzOOF9x2/giphy.gif" width="28"> GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
