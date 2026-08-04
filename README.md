@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/header-banner.jpg" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6D001A&height=180&section=header&text=Esha%20Mirza&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20in%20the%20Making&descAlignY=58&descColor=FFFFFF" width="100%"/>
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6D001A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esha-mirza1623)
