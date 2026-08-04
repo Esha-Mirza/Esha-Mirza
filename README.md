@@ -13,11 +13,59 @@
 
 ## About Me
 
-Hi, I'm Esha 
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" valign="top" style="padding: 10px;">
+      <div style="
+        border: 4px solid #d32f2f;
+        border-radius: 0;
+        padding: 40px 20px;
+        background: transparent;
+        text-align: center;
+        min-height: 180px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      ">
+        <h2 style="
+          margin: 0;
+          font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+          font-size: 28px;
+          font-weight: 500;
+          color: #1e1e2a;
+          letter-spacing: -0.5px;
+        ">
+          Hi, I'm Esha
+          <br><br>
+          BS Artificial Intelligence student (BS-AI-4A) at Bahria University, Islamabad. I recently completed an AI/ML internship at School of AI, where I built and shipped 25 healthcare, legal tech, finance, and multi-agent systems.
+          <br><br>
+          I'm working toward becoming a Machine Learning Engineer, and I like building things that are useful, not just notebooks that run once and get forgotten.
+        </h2>
+      </div>
+    </td>
+    
+    <td width="50%" valign="top" style="padding: 10px;">
+      <div style="
+        padding: 0;
+        background: transparent;
+      ">
+        <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+          <video 
+            src="assets/AboutMevid.mp4"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+            autoplay
+            muted
+            loop
+            playsinline
+            controls>
+          </video>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
 
-BS Artificial Intelligence student (BS-AI-4A) at Bahria University, Islamabad. I recently completed an AI/ML internship at School of AI, where I built and shipped 25 AI/ML projects spanning NLP, healthcare, legal tech, finance, and multi-agent systems.
-
-I'm working toward becoming a Machine Learning Engineer, and I like building things that are useful, not just notebooks that run once and get forgotten.
+<br/>
 
 <br/>
 
