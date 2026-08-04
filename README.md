@@ -28,7 +28,7 @@
 </td>
 <td width="50%" valign="top">
 
-<video src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/AboutMevid.mp4" controls muted loop width="100%"></video>
+<img src="assets/AboutMe.jpeg" controls muted loop width="100%"></video>
   
 
 </td>
