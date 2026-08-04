@@ -30,7 +30,6 @@
 
 <video src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/AboutMevid.mp4" controls muted loop width="100%"></video>
   
-</video>
 
 </td>
 </tr>
