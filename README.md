@@ -15,7 +15,7 @@
 
 ## About Me
 
-<img align="right" width="200" src="assets/AboutMe.png" />
+<img align="right" width="200" src="assets/AboutMe.jpeg" />
 
 > [!CAUTION]
 > ## Hi, I'm Esha 👋
