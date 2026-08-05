@@ -15,26 +15,16 @@
 
 ## About Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<img align="right" width="200" src="assets/AboutMe.png" />
 
-> ### Hi, I'm Esha 
+> [!CAUTION]
+> ## Hi, I'm Esha 👋
 >
 > BS Artificial Intelligence student **(BS-AI-4A)** at Bahria University, Islamabad. I recently completed an AI/ML internship at **School of AI**, where I built and shipped **25 healthcare, legal tech, finance, and multi-agent systems**.
 >
 > I'm working toward becoming a **Machine Learning Engineer**, and I like building things that are useful — not just notebooks that run once and get forgotten.
 
-</td>
-<td width="50%" valign="top">
-
-<img src="assets/AboutMe.jpeg" controls muted loop width="100%"></video>
-  
-
-</td>
-</tr>
-</table>
-
+<br clear="right"/>
 <br/>
 
 ## Tech Stack
@@ -74,6 +64,7 @@
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Esha-Mirza&hide_border=true&background=0D0D0D&stroke=6D001A&ring=D4145A&fire=D4145A&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esha-Mirza&hide_border=true&bg_color=0D0D0D&title_color=D4145A&text_color=FFFFFF&icon_color=D4145A&border_color=6D001A&border_radius=10&langs_count=8" width="49%"/>
 
 </div>
 
