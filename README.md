@@ -1,9 +1,8 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6D001A&height=180&section=header&text=Esha%20Mirza&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20|%20BS%20Artificial%20Intelligence%20|%20Bahria%20University%20Islamabad&descAlignY=58&descColor=FFFFFF" width="100%"/>
+<img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/header-banner.jpg" width="100%"/>
 
-<br/>
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6D001A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esha-mirza1623)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Esha-Mirza)
@@ -16,30 +15,15 @@
 
 ## About Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Hi, I'm Esha 
 
-> ### Hi, I'm Esha 
->
-> BS Artificial Intelligence student **(BS-AI-4A)** at Bahria University, Islamabad. I recently completed an AI/ML internship at **School of AI**, where I built and shipped **25 healthcare, legal tech, finance, and multi-agent systems**.
->
-> I'm working toward becoming a **Machine Learning Engineer**, and I like building things that are useful — not just notebooks that run once and get forgotten.
+BS Artificial Intelligence student (BS-AI-4A) at Bahria University, Islamabad. I recently completed an AI/ML internship at School of AI, where I built and shipped 25 AI/ML projects spanning NLP, healthcare, legal tech, finance, and multi-agent systems.
 
-</td>
-<td width="50%" valign="top">
-
-<video src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/AboutMevid.mp4" controls muted loop width="100%"></video>
-<img src="assets/AboutMe.jpeg" controls muted loop width="100%"></video>
-
-
-</td>
-</tr>
-</table>
+I'm working toward becoming a Machine Learning Engineer, and I like building things that are useful, not just notebooks that run once and get forgotten.
 
 <br/>
 
-## Tech Stack
+## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="28"> Tech Stack
 
 <div align="center">
 
@@ -61,30 +45,59 @@
 
 ## Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [**School of AI Internship Portfolio**](https://github.com/Esha-Mirza/School_Of_AI_Internsihp) | 25 end-to-end AI applications spanning healthcare, finance, education, security, and developer tools, with LLM integration and multi-agent systems throughout. | Python · LLMs · NLP |
-| [**Hospital Bed Management Analysis**](https://github.com/Esha-Mirza/Hospital-Bed-Management-Staff-and-Patient-Analysis) | Data-driven analysis of hospital bed utilization, staffing, and patient flow to identify inefficiencies in occupancy and staffing allocation. | Python · Pandas |
-| [**GenZ Life Simulator**](https://github.com/Esha-Mirza/GenZ-Life-Simulator-ESM) | Interactive life-simulation game modeling social scenarios, digital wellness, and career decisions with branching consequences. | Python |
-| [**Road Runner**](https://github.com/Esha-Mirza/Road-Runner-ASM) | ASCII-art car racing game built entirely in x86 Assembly using the Irvine32 library, with obstacle dodging and rising difficulty. | Assembly (MASM) |
-| [**ATM System**](https://github.com/Esha-Mirza/ATM-System) | Console-based ATM simulation with file-based storage — account creation, PIN authentication, balance inquiry, and withdrawal limits. | C++ |
+<table width="100%">
+<thead>
+<tr>
+<th align="left" width="26%">Project</th>
+<th align="left" width="52%">Description</th>
+<th align="left" width="22%">Stack</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/Esha-Mirza/School_Of_AI_Internsihp"><b>School of AI Internship Portfolio</b></a></td>
+<td>25 end-to-end AI applications spanning healthcare, finance, education, security, and developer tools, with LLM integration and multi-agent systems throughout.</td>
+<td>Python · LLMs · NLP</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Esha-Mirza/Hospital-Bed-Management-Staff-and-Patient-Analysis"><b>Hospital Bed Management Analysis</b></a></td>
+<td>Data-driven analysis of hospital bed utilization, staffing, and patient flow to identify inefficiencies in occupancy and staffing allocation.</td>
+<td>Python · Pandas</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Esha-Mirza/GenZ-Life-Simulator-ESM"><b>GenZ Life Simulator</b></a></td>
+<td>Interactive life-simulation game modeling social scenarios, digital wellness, and career decisions with branching consequences.</td>
+<td>Python</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Esha-Mirza/Road-Runner-ASM"><b>Road Runner</b></a></td>
+<td>ASCII-art car racing game built entirely in x86 Assembly using the Irvine32 library, with obstacle dodging and rising difficulty.</td>
+<td>Assembly (MASM)</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Esha-Mirza/ATM-System"><b>ATM System</b></a></td>
+<td>Console-based ATM simulation with file-based storage — account creation, PIN authentication, balance inquiry, and withdrawal limits.</td>
+<td>C++</td>
+</tr>
+</tbody>
+</table>
 
 <br/>
 
-## GitHub Stats
+## <img src="https://media.giphy.com/media/L59yAmzOOF9x2/giphy.gif" width="28"> GitHub Stats
 
 <div align="center">
 
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Esha-Mirza&hide_border=true&background=0D0D0D&stroke=6D001A&ring=D4145A&fire=D4145A&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" width="49%"/>
+
 
 </div>
 
 <br/>
 
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Esha-Mirza&bg_color=0D0D0D&color=D4145A&line=6D001A&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
 </div>
 
 <br/>
@@ -96,3 +109,5 @@
 *Currently open to ML Engineering internships & entry-level roles*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6D001A&height=100&section=footer" width="100%"/>
+
+</div>
