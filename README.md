@@ -19,11 +19,11 @@
 <tr>
 <td width="50%" valign="top">
 
- ### Hi, I'm Esha 
-
-BS Artificial Intelligence student **(BS-AI-4A)** at Bahria University, Islamabad. I recently completed an AI/ML internship at **School of AI**, where I built and shipped **25 healthcare, legal tech, finance, and multi-agent systems**.
-
-I'm working toward becoming a **Machine Learning Engineer**, and I like building things that are useful — not just notebooks that run once and get forgotten.
+> ### Hi, I'm Esha 
+>
+> BS Artificial Intelligence student **(BS-AI-4A)** at Bahria University, Islamabad. I recently completed an AI/ML internship at **School of AI**, where I built and shipped **25 healthcare, legal tech, finance, and multi-agent systems**.
+>
+> I'm working toward becoming a **Machine Learning Engineer**, and I like building things that are useful — not just notebooks that run once and get forgotten.
 
 </td>
 <td width="50%" valign="top">
