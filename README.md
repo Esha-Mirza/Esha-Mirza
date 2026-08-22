@@ -15,26 +15,39 @@
 
 ## About Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<table> <tr> <td width="58%" valign="top">
 
-> ### Hi, I'm Esha
->
-> BS Artificial Intelligence student **(BS-AI-4A)** at Bahria University, Islamabad. I recently completed an AI/ML internship at **School of AI**, where I built and shipped **25 healthcare, legal tech, finance, and multi-agent systems**.
->
-> I'm working toward becoming a **Machine Learning Engineer**, and I like building things that are useful — not just notebooks that run once and get forgotten.
+I'm a BS Artificial Intelligence student at Bahria University, Islamabad, focused on building practical AI/ML systems rather than stopping at experimentation.
+
+My work spans:
+
+Machine Learning & Data Science
+LLM applications & RAG pipelines
+AI agents & multi-agent systems
+Voice-based AI systems
+Computer Vision
+Experiment tracking & ML tooling
+Automation and intelligent developer tools
+
+During my School of AI internship, I built 25 AI applications across healthcare, finance, legal technology, education, security, and developer tooling.
+
+I enjoy taking an idea from prototype → working system → usable interface.
+
+<br>
+
+I don't just train models. I build systems around them.
 
 </td>
-<td width="50%" valign="top">
 
-<video src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/main/assets/AboutMevid.mp4" controls muted loop width="100%"></video> <img src="assets/AboutMe.jpeg" controls muted loop width="100%"></video>
+<td width="42%" align="center">
 
-</td>
-</tr>
-</table>
+<img src="assets/AboutMe.jpeg" width="90%" alt="Esha Mirza"/>
 
-<br/>
+<br><br>
+
+<a href="https://esha-mirza.github.io/"> <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-6D001A?style=for-the-badge&logo=googlechrome&logoColor=white"/> </a>
+
+</td> </tr> </table>
 
 ## Tech Stack
 
