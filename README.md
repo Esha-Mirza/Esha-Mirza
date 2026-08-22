@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6D001A&height=180&section=header&text=Esha%20Mirza&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20|%20BS%20Artificial%20Intelligence%20|%20Bahria%20University%20Islamabad&descAlignY=58&descColor=FFFFFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:3D0010,100:6D001A&height=200&section=header&text=ESHA%20MIRZA&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%7C%20BUILDING%20INTELLIGENT%20SYSTEMS&descAlignY=60&descColor=FFFFFF&descSize=18" width="100%"/>
 
 <br/>
 
@@ -105,6 +105,6 @@ I don't just train models. I build systems around them.
 
 *Currently open to ML Engineering internships & entry-level roles*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6D001A&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D001A,50:3D0010,100:0D0D0D&height=120&section=footer" width="100%"/>
 
 </div>
