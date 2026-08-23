@@ -77,13 +77,11 @@ The part of my week that doesn't fit the AI-student narrative: I also intern on 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Esha-Mirza&show_icons=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=D41451&text_color=FFFFFF&icon_color=D41451&ring_color=6D001A"/>
+
 <img height="165" src="https://streak-stats.demolab.com/?user=Esha-Mirza&hide_border=true&background=0D0D0D&stroke=6D001A&ring=D41451&fire=D41451&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esha-Mirza&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=D41451&text_color=FFFFFF&langs_count=8"/>
-</p>
+
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Esha-Mirza&bg_color=0D0D0D&color=D41451&line=6D001A&point=FFFFFF&area=true&hide_border=true"/>
