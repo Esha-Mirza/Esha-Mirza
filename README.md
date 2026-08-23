@@ -13,6 +13,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:0D0D0D&height=2&section=header" width="100%"/>
 
+
+
 ## About Me
 
 <table> <tr> <td width="58%" valign="top">
@@ -49,6 +51,10 @@ I don't just train models. I build systems around them.
 
 </td> </tr> </table>
 
+<br>
+
+---
+
 ## Tech Stack
 
 <div align="center">
@@ -69,6 +75,10 @@ I don't just train models. I build systems around them.
 
 <br/>
 
+<br>
+
+---
+
 ## Featured Projects
 
 | Project                                                                                                                  | Description                                                                                                                                                    | Stack               |
@@ -80,6 +90,10 @@ I don't just train models. I build systems around them.
 | [**ATM System**](https://github.com/Esha-Mirza/ATM-System)                                                               | Console-based ATM simulation with file-based storage — account creation, PIN authentication, balance inquiry, and withdrawal limits.                           | C++                 |
 
 <br/>
+
+<br>
+
+---
 
 ## GitHub Stats
 
