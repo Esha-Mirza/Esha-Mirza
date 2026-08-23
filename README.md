@@ -41,7 +41,7 @@ I don't just train models. I build systems around them.
 
 <td width="42%" align="center">
 
-https://github.com/user-attachments/assets/b1293b99-1fdb-4a3f-84c6-c3b25bdc9e1c
+<video src="https://github.com/user-attachments/assets/b1293b99-1fdb-4a3f-84c6-c3b25bdc9e1c" controls width="100%"></video>
 
 <br><br>
 
