@@ -3,7 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:3D0010,100:6D001A&height=200&section=header&text=ESHA%20MIRZA&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%7C%20BUILDING%20INTELLIGENT%20SYSTEMS&descAlignY=60&descColor=FFFFFF&descSize=18" width="100%"/>
 
 <br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6D001A?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/esha-mirza1623)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Esha-Mirza)
 
@@ -15,7 +14,9 @@
 
 ## About Me
 
-<table> <tr> <td width="58%" valign="top">
+<table>
+<tr>
+<td width="58%" valign="middle">
 
 I'm a BS Artificial Intelligence student at Bahria University, Islamabad, focused on building practical AI/ML systems rather than stopping at experimentation.
 
@@ -39,15 +40,19 @@ I don't just train models. I build systems around them.
 
 </td>
 
-<td width="42%" align="center">
+<td width="42%" align="center" valign="middle">
 
-<img src="assets/AboutMe.jpeg" width="90%" alt="Esha Mirza"/>
+<img src="assets/coding.gif" width="85%" alt="Developer coding"/>
 
 <br><br>
 
-<a href="https://esha-mirza.github.io/"> <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-6D001A?style=for-the-badge&logo=googlechrome&logoColor=white"/> </a>
+<a href="https://esha-mirza.github.io/">
+<img src="https://img.shields.io/badge/Explore%20My%20Portfolio-6D001A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
-</td> </tr> </table>
+</td>
+</tr>
+</table>
 
 ## Tech Stack
 
@@ -85,7 +90,7 @@ I don't just train models. I build systems around them.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Esha-Mirza&hide_border=true&background=0D0D0D&stroke=6D001A&ring=D4145A&fire=D4145A&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=Esha-Mirza&hide_border=true&background=0D0D0D&stroke=6D001A&ring=D4145A&fire=D4145A&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" width="49%"/>
 
 </div>
 
