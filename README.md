@@ -1,48 +1,39 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Esha+Mirza;AI%2FML+Engineer+in+the+making;Building+systems%2C+not+just+models;Design-brained%2C+code-hearted&font=Fira+Code&size=22&pause=1000&color=D41451&background=0D0D0D00&center=true&vCenter=true&width=600&height=50">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Esha+Mirza;AI%2FML+Engineer+in+the+making;Building+systems%2C+not+just+models;Design-brained%2C+code-hearted&font=Fira+Code&size=22&pause=1000&color=D41451&background=FFFFFF00&center=true&vCenter=true&width=600&height=50" alt="Typing SVG">
-</picture>
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:6D001A&height=200&section=header&text=ESHA%20MIRZA&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Building%20systems%2C%20not%20just%20models&descAlignY=58&descSize=18&animation=fadeIn)](https://esha-mirza.github.io/)
 
-[![](assets/header-banner.jpg)](assets/header-banner.jpg)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Shipping+25%2B+AI+applications+at+School+of+AI;Deep-diving+CNNs+%26+deep+learning+right+now;Design-brained+%40+Rakh%2C+code-hearted+everywhere+else;Open+to+ML+Engineering+roles+%E2%80%94+let%27s+talk&font=Fira+Code&size=17&pause=1400&color=D41451&center=true&vCenter=true&width=650&height=40&background=00000000">
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D001A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esha-mirza1623) [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Esha-Mirza)
+<p align="center">
+<a href="https://www.linkedin.com/in/esha-mirza1623"><img src="https://img.shields.io/badge/LinkedIn-6D001A?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/Esha-Mirza"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://esha-mirza.github.io/"><img src="https://img.shields.io/badge/Portfolio-D41451?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+</p>
 
 <br>
 
 ## About Me
-<!--#about-me-->
+
+I'm a final-year BS Artificial Intelligence student at Bahria University, and the thing I keep relearning is that "it works on my machine" is the *start* of the job, not the finish line.
+
+At my AI/ML internship with **School of AI**, I shipped **25 end-to-end AI applications** — healthcare, legal tech, finance, NLP, multi-agent systems — and every single one taught me the same lesson: training the model is the fun 20%. The other 80% is the pipeline that doesn't fall over, the interface someone who isn't me can actually use, and documentation good enough that I'm not the only person who understands my own repo in three months.
+
+Right now I'm going deeper on **CNNs and deep learning fundamentals** — I'd rather actually understand why a model works than just know that it does.
+
+The part of my week that doesn't fit the AI-student narrative: I also intern on the **design track at Rakh**, a Pakistani streetwear label. Tensors on weekdays, typefaces on the side — different materials, same instinct: care enough about the thing that someone else finds it legible. It's also, unsurprisingly, why I couldn't leave this README alone.
+
+**Currently open to ML Engineering internships & entry-level roles** — if you're building something that needs someone who goes past the notebook, my inbox is open.
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td>
 
-I'm a final-year BS Artificial Intelligence student at Bahria University, and I've spent the last while treating "I built something" as the minimum bar, not the finish line.
-
-During my AI/ML internship at **School of AI**, I shipped **25 end-to-end AI applications** — healthcare, legal tech, finance, NLP, multi-agent systems — and the pattern that kept repeating was the same one every time: the model is the easy part. The hard part is everything around it — the pipeline that doesn't fall over, the interface someone who isn't me can actually use, the documentation that means I'm not the only person who understands my own repo six months later.
-
-Right now I'm going deeper on **CNNs and deep learning fundamentals**, because I'd rather understand *why* a model works than just know it does.
-
-The unlikely part of my week: I also intern on the **design track at Rakh**, a Pakistani streetwear label. It's a strange pairing on paper — tensors and typefaces — but it's exactly why I obsess over how this profile *looks* and not just what it says. I think engineering and design are the same instinct pointed at different materials: care about the thing enough to make it legible to someone else.
-
-I'm currently open to **ML Engineering internships and entry-level roles** — if you're building something that needs a person who'll go past the notebook, let's talk.
-
-</td>
-<td width="40%" valign="top" align="center">
-
-<img src="assets/coding.gif" width="260"/>
-
-<br><br>
-
-**Quick Facts**
-
-🎓 BS-AI, Bahria University
-🧪 AI/ML Intern @ School of AI
-📦 25+ shipped AI projects
-🧠 Focus: CNNs · NLP · Multi-Agent Systems
-🎨 Design Intern @ Rakh
-📍 Islamabad, Pakistan
-
-[![Explore My Portfolio](https://img.shields.io/badge/Explore%20My%20Portfolio-D41451?style=for-the-badge&logo=googlechrome&logoColor=white)](https://esha-mirza.github.io/)
+🎓 &nbsp;BS-AI, Bahria University
+🧪 &nbsp;AI/ML Intern @ School of AI
+📦 &nbsp;25+ shipped AI projects
+🧠 &nbsp;Focus: CNNs · NLP · Multi-Agent Systems
+🎨 &nbsp;Design Intern @ Rakh
+📍 &nbsp;Islamabad, Pakistan
 
 </td>
 </tr>
@@ -51,7 +42,6 @@ I'm currently open to **ML Engineering internships and entry-level roles** — i
 <br>
 
 ## 🛠️ Tech Stack
-<!--#tech-stack-->
 
 <p align="left">
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white">
@@ -73,7 +63,6 @@ I'm currently open to **ML Engineering internships and entry-level roles** — i
 <br>
 
 ## 📌 Featured Projects
-<!--#featured-projects-->
 
 | Project | Description | Stack |
 |---|---|---|
@@ -86,7 +75,6 @@ I'm currently open to **ML Engineering internships and entry-level roles** — i
 <br>
 
 ## 📊 GitHub Stats
-<!--#github-stats-->
 
 <p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Esha-Mirza&show_icons=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=D41451&text_color=FFFFFF&icon_color=D41451&ring_color=6D001A"/>
@@ -101,11 +89,24 @@ I'm currently open to **ML Engineering internships and entry-level roles** — i
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Esha-Mirza&bg_color=0D0D0D&color=D41451&line=6D001A&point=FFFFFF&area=true&hide_border=true"/>
 </p>
 
+<details>
+<summary><b>🏆 Trophy Case</b></summary>
+<br>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Esha-Mirza&theme=dracula&no-frame=true&row=1&column=7&margin-w=8"/>
+</p>
+</details>
+
 <br>
 
-### 💬 Let's build something.
-<!--#lets-build-something-->
+<p align="center">
+<img src="https://raw.githubusercontent.com/Esha-Mirza/Esha-Mirza/output/github-contribution-grid-snake.svg" alt="contribution snake" width="100%"/>
+</p>
+
+<br>
+
+## 💬 Let's build something.
 
 *Currently open to ML Engineering internships & entry-level roles*
 
-[![](assets/footer-banner.jpg)](assets/footer-banner.jpg)
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6D001A,100:0D0D0D&height=120&section=footer)](https://esha-mirza.github.io/)
