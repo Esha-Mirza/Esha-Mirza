@@ -3,8 +3,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:3D0010,100:6D001A&height=200&section=header&text=ESHA%20MIRZA&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%7C%20BUILDING%20INTELLIGENT%20SYSTEMS&descAlignY=60&descColor=FFFFFF&descSize=18" width="100%"/>
 
 <br/>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D001A?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/esha-mirza1623)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Esha-Mirza)
+
+<a href="https://www.linkedin.com/in/esha-mirza1623">
+<img src="https://img.shields.io/badge/LinkedIn-6D001A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/Esha-Mirza">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
 </div>
 
@@ -16,25 +22,34 @@
 
 <table>
 <tr>
+
 <td width="58%" valign="middle">
 
 I'm a BS Artificial Intelligence student at Bahria University, Islamabad, focused on building practical AI/ML systems rather than stopping at experimentation.
 
+<br><br>
+
 My work spans:
 
-Machine Learning & Data Science
-LLM applications & RAG pipelines
-AI agents & multi-agent systems
-Voice-based AI systems
-Computer Vision
-Experiment tracking & ML tooling
+<br><br>
+
+Machine Learning & Data Science<br>
+LLM applications & RAG pipelines<br>
+AI agents & multi-agent systems<br>
+Voice-based AI systems<br>
+Computer Vision<br>
+Experiment tracking & ML tooling<br>
 Automation and intelligent developer tools
+
+<br><br>
 
 During my School of AI internship, I built 25 AI applications across healthcare, finance, legal technology, education, security, and developer tooling.
 
+<br><br>
+
 I enjoy taking an idea from prototype → working system → usable interface.
 
-<br>
+<br><br>
 
 I don't just train models. I build systems around them.
 
@@ -42,15 +57,16 @@ I don't just train models. I build systems around them.
 
 <td width="42%" align="center" valign="middle">
 
-<img src="assets/coding.gif" width="85%" alt="Developer coding"/>
+<img src="assets/coding.gif" width="85%" alt="Coding"/>
 
 <br><br>
 
 <a href="https://esha-mirza.github.io/">
-<img src="https://img.shields.io/badge/Explore%20My%20Portfolio-6D001A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Explore%20My%20Portfolio-6D001A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore My Portfolio"/>
 </a>
 
 </td>
+
 </tr>
 </table>
 
@@ -90,7 +106,7 @@ I don't just train models. I build systems around them.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Esha-Mirza&hide_border=true&background=0D0D0D&stroke=6D001A&ring=D4145A&fire=D4145A&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=Esha-Mirza&hide_border=true&background=0D0D0D&stroke=6D001A&ring=D4145A&fire=D4145A&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" width="49%" alt="GitHub Streak Stats"/>
 
 </div>
 
@@ -98,7 +114,7 @@ I don't just train models. I build systems around them.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Esha-Mirza&bg_color=0D0D0D&color=D4145A&line=6D001A&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Esha-Mirza&bg_color=0D0D0D&color=D4145A&line=6D001A&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Esha Mirza's Contribution Graph"/>
 
 </div>
 
