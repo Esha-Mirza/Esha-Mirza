@@ -1,131 +1,111 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Esha+Mirza;AI%2FML+Engineer+in+the+making;Building+systems%2C+not+just+models;Design-brained%2C+code-hearted&font=Fira+Code&size=22&pause=1000&color=D41451&background=0D0D0D00&center=true&vCenter=true&width=600&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Esha+Mirza;AI%2FML+Engineer+in+the+making;Building+systems%2C+not+just+models;Design-brained%2C+code-hearted&font=Fira+Code&size=22&pause=1000&color=D41451&background=FFFFFF00&center=true&vCenter=true&width=600&height=50" alt="Typing SVG">
+</picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:3D0010,100:6D001A&height=200&section=header&text=ESHA%20MIRZA&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%7C%20BUILDING%20INTELLIGENT%20SYSTEMS&descAlignY=60&descColor=FFFFFF&descSize=18" width="100%"/>
+[![](assets/header-banner.jpg)](assets/header-banner.jpg)
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D001A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esha-mirza1623) [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Esha-Mirza)
 
-<a href="https://www.linkedin.com/in/esha-mirza1623">
-<img src="https://img.shields.io/badge/LinkedIn-6D001A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://github.com/Esha-Mirza">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:0D0D0D&height=2&section=header" width="100%"/>
+<br>
 
 ## About Me
+<!--#about-me-->
 
 <table>
 <tr>
+<td width="60%" valign="top">
 
-<td width="58%" valign="middle">
+I'm a final-year BS Artificial Intelligence student at Bahria University, and I've spent the last while treating "I built something" as the minimum bar, not the finish line.
 
-I'm a BS Artificial Intelligence student at Bahria University, Islamabad, focused on building practical AI/ML systems rather than stopping at experimentation.
+During my AI/ML internship at **School of AI**, I shipped **25 end-to-end AI applications** — healthcare, legal tech, finance, NLP, multi-agent systems — and the pattern that kept repeating was the same one every time: the model is the easy part. The hard part is everything around it — the pipeline that doesn't fall over, the interface someone who isn't me can actually use, the documentation that means I'm not the only person who understands my own repo six months later.
 
-<br><br>
+Right now I'm going deeper on **CNNs and deep learning fundamentals**, because I'd rather understand *why* a model works than just know it does.
 
-My work spans:
+The unlikely part of my week: I also intern on the **design track at Rakh**, a Pakistani streetwear label. It's a strange pairing on paper — tensors and typefaces — but it's exactly why I obsess over how this profile *looks* and not just what it says. I think engineering and design are the same instinct pointed at different materials: care about the thing enough to make it legible to someone else.
 
-<br><br>
-
-Machine Learning & Data Science<br>
-LLM applications & RAG pipelines<br>
-AI agents & multi-agent systems<br>
-Voice-based AI systems<br>
-Computer Vision<br>
-Experiment tracking & ML tooling<br>
-Automation and intelligent developer tools
-
-<br><br>
-
-During my School of AI internship, I built 25 AI applications across healthcare, finance, legal technology, education, security, and developer tooling.
-
-<br><br>
-
-I enjoy taking an idea from prototype → working system → usable interface.
-
-<br><br>
-
-I don't just train models. I build systems around them.
+I'm currently open to **ML Engineering internships and entry-level roles** — if you're building something that needs a person who'll go past the notebook, let's talk.
 
 </td>
+<td width="40%" valign="top" align="center">
 
-<td width="42%" align="center" valign="middle">
-
-<img src="assets/coding.gif" width="85%" alt="Coding"/>
+<img src="assets/coding.gif" width="260"/>
 
 <br><br>
 
-<a href="https://esha-mirza.github.io/">
-<img src="https://img.shields.io/badge/Explore%20My%20Portfolio-6D001A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore My Portfolio"/>
-</a>
+**Quick Facts**
+
+🎓 BS-AI, Bahria University
+🧪 AI/ML Intern @ School of AI
+📦 25+ shipped AI projects
+🧠 Focus: CNNs · NLP · Multi-Agent Systems
+🎨 Design Intern @ Rakh
+📍 Islamabad, Pakistan
+
+[![Explore My Portfolio](https://img.shields.io/badge/Explore%20My%20Portfolio-D41451?style=for-the-badge&logo=googlechrome&logoColor=white)](https://esha-mirza.github.io/)
 
 </td>
-
 </tr>
 </table>
 
-## Tech Stack
+<br>
 
-<div align="center">
+## 🛠️ Tech Stack
+<!--#tech-stack-->
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-6D001A?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge\&logo=jupyter\&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-6D001A?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-6D001A?style=for-the-badge\&logo=numpy\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-6D001A?style=for-the-badge\&logo=opencv\&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge\&logo=assemblyscript\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-6D001A?style=for-the-badge\&logo=git\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+<p align="left">
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/C++-6D001A?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/scikit--learn-6D001A?style=for-the-badge&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-6D001A?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/OpenCV-6D001A?style=for-the-badge&logo=opencv&logoColor=white">
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-6D001A?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=white">
+<img src="https://img.shields.io/badge/Assembly-6D001A?style=for-the-badge&logo=assemblyscript&logoColor=white">
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/VS%20Code-6D001A?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+</p>
 
-</div>
+<br>
 
-<br/>
+## 📌 Featured Projects
+<!--#featured-projects-->
 
-## Featured Projects
+| Project | Description | Stack |
+|---|---|---|
+| [**School of AI Internship Portfolio**](https://github.com/Esha-Mirza/School_Of_AI_Internsihp) | 25 end-to-end AI applications spanning healthcare, finance, education, security, and developer tools, with LLM integration and multi-agent systems throughout. | Python · LLMs · NLP |
+| [**Hospital Bed Management Analysis**](https://github.com/Esha-Mirza/Hospital-Bed-Management-Staff-and-Patient-Analysis) | Data-driven analysis of hospital bed utilization, staffing, and patient flow to identify inefficiencies in occupancy and staffing allocation. | Python · Pandas |
+| [**GenZ Life Simulator**](https://github.com/Esha-Mirza/GenZ-Life-Simulator-ESM) | Interactive life-simulation game modeling social scenarios, digital wellness, and career decisions with branching consequences. | Python |
+| [**Road Runner**](https://github.com/Esha-Mirza/Road-Runner-ASM) | ASCII-art car racing game built entirely in x86 Assembly using the Irvine32 library, with obstacle dodging and rising difficulty. | Assembly (MASM) |
+| [**ATM System**](https://github.com/Esha-Mirza/ATM-System) | Console-based ATM simulation with file-based storage — account creation, PIN authentication, balance inquiry, and withdrawal limits. | C++ |
 
-| Project                                                                                                                  | Description                                                                                                                                                    | Stack               |
-| ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
-| [**School of AI Internship Portfolio**](https://github.com/Esha-Mirza/School_Of_AI_Internsihp)                           | 25 end-to-end AI applications spanning healthcare, finance, education, security, and developer tools, with LLM integration and multi-agent systems throughout. | Python · LLMs · NLP |
-| [**Hospital Bed Management Analysis**](https://github.com/Esha-Mirza/Hospital-Bed-Management-Staff-and-Patient-Analysis) | Data-driven analysis of hospital bed utilization, staffing, and patient flow to identify inefficiencies in occupancy and staffing allocation.                  | Python · Pandas     |
-| [**GenZ Life Simulator**](https://github.com/Esha-Mirza/GenZ-Life-Simulator-ESM)                                         | Interactive life-simulation game modeling social scenarios, digital wellness, and career decisions with branching consequences.                                | Python              |
-| [**Road Runner**](https://github.com/Esha-Mirza/Road-Runner-ASM)                                                         | ASCII-art car racing game built entirely in x86 Assembly using the Irvine32 library, with obstacle dodging and rising difficulty.                              | Assembly (MASM)     |
-| [**ATM System**](https://github.com/Esha-Mirza/ATM-System)                                                               | Console-based ATM simulation with file-based storage — account creation, PIN authentication, balance inquiry, and withdrawal limits.                           | C++                 |
+<br>
 
-<br/>
+## 📊 GitHub Stats
+<!--#github-stats-->
 
-## GitHub Stats
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Esha-Mirza&show_icons=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=D41451&text_color=FFFFFF&icon_color=D41451&ring_color=6D001A"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=Esha-Mirza&hide_border=true&background=0D0D0D&stroke=6D001A&ring=D41451&fire=D41451&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+</p>
 
-<div align="center">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esha-Mirza&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=D41451&text_color=FFFFFF&langs_count=8"/>
+</p>
 
-<img src="https://streak-stats.demolab.com/?user=Esha-Mirza&hide_border=true&background=0D0D0D&stroke=6D001A&ring=D4145A&fire=D4145A&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" width="49%" alt="GitHub Streak Stats"/>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Esha-Mirza&bg_color=0D0D0D&color=D41451&line=6D001A&point=FFFFFF&area=true&hide_border=true"/>
+</p>
 
-</div>
+<br>
 
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Esha-Mirza&bg_color=0D0D0D&color=D4145A&line=6D001A&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Esha Mirza's Contribution Graph"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### Let's build something.
+### 💬 Let's build something.
+<!--#lets-build-something-->
 
 *Currently open to ML Engineering internships & entry-level roles*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D001A,50:3D0010,100:0D0D0D&height=120&section=footer" width="100%"/>
-
-</div>
+[![](assets/footer-banner.jpg)](assets/footer-banner.jpg)
