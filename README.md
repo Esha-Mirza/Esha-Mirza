@@ -31,8 +31,11 @@ Experiment tracking & ML tooling
 Automation and intelligent developer tools
 
 During my School of AI internship, I built 25 AI applications across healthcare, finance, legal technology, education, security, and developer tooling.
+
 I enjoy taking an idea from prototype → working system → usable interface.
+
 <br>
+
 I don't just train models. I build systems around them.
 
 </td>
