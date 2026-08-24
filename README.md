@@ -22,7 +22,6 @@
 I'm a BS Artificial Intelligence student at Bahria University, Islamabad, focused on building practical AI/ML systems rather than stopping at experimentation.
 
 My work spans:
-
 Machine Learning & Data Science
 LLM applications & RAG pipelines
 AI agents & multi-agent systems
@@ -32,11 +31,8 @@ Experiment tracking & ML tooling
 Automation and intelligent developer tools
 
 During my School of AI internship, I built 25 AI applications across healthcare, finance, legal technology, education, security, and developer tooling.
-
 I enjoy taking an idea from prototype → working system → usable interface.
-
 <br>
-
 I don't just train models. I build systems around them.
 
 </td>
