@@ -149,30 +149,27 @@ I enjoy taking an idea from <strong>prototype → working system → usable inte
 
 <br/>
 
-<!-- GITHUB ACTIVITY -->
-## GitHub Activity
+<!-- GITHUB STATS -->
+## GitHub Stats
 
 <div align="center">
 
   <a href="https://github.com/Esha-Mirza">
-    <img src="https://img.shields.io/github/followers/Esha-Mirza?style=for-the-badge&color=000000&logo=github&logoColor=white&label=Followers"/>
+    <img src="./assets/github-stats.svg" height="180" alt="GitHub Stats"/>
   </a>
-  <a href="https://github.com/Esha-Mirza?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repos-View%20All-6D001A?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Esha-Mirza?tab=stars">
-    <img src="https://img.shields.io/badge/Starred%20Repos-View%20All-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/Esha-Mirza">
+    <img src="./assets/top-langs.svg" height="180" alt="Top Languages"/>
   </a>
 
-</div>
-
-<br/>
-
-<div align="center">
+  <br/><br/>
 
   <a href="https://github.com/Esha-Mirza">
-    <img src="https://img.shields.io/badge/View%20Full%20Contribution%20Graph%20on%20GitHub-6D001A?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="./assets/streak-stats.svg" height="180" alt="GitHub Streak"/>
   </a>
+
+  <br/><br/>
+
+  <img src="./assets/activity-graph.svg" width="95%" alt="Contribution Graph"/>
 
 </div>
 
