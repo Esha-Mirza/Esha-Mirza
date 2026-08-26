@@ -154,13 +154,18 @@ I enjoy taking an idea from <strong>prototype → working system → usable inte
 
 <div align="center">
 
-  <p>
-    <img height="165" src="https://streak-stats.demolab.com/?user=Esha-Mirza&hide_border=true&background=0D0D0D&stroke=6D001A&ring=D41451&fire=D41451&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
-  </p>
+  <a href="https://github.com/Esha-Mirza">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Esha-Mirza&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=D41451&text_color=FFFFFF&icon_color=D41451" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/Esha-Mirza">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esha-Mirza&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=D41451&text_color=FFFFFF" alt="Top Languages"/>
+  </a>
 
-  <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Esha-Mirza&bg_color=0D0D0D&color=D41451&line=6D001A&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
-  </p>
+  <br/><br/>
+
+  <a href="https://github.com/Esha-Mirza">
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Esha-Mirza&hide_border=true&background=0D0D0D&stroke=6D001A&ring=D41451&fire=D41451&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
+  </a>
 
 </div>
 
