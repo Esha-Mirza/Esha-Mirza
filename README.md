@@ -149,22 +149,29 @@ I enjoy taking an idea from <strong>prototype → working system → usable inte
 
 <br/>
 
-<!-- GITHUB STATS -->
-## GitHub Stats
+<!-- GITHUB ACTIVITY -->
+## GitHub Activity
 
 <div align="center">
 
   <a href="https://github.com/Esha-Mirza">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Esha-Mirza&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=D41451&text_color=FFFFFF&icon_color=D41451" alt="GitHub Stats"/>
+    <img src="https://img.shields.io/github/followers/Esha-Mirza?style=for-the-badge&color=000000&logo=github&logoColor=white&label=Followers"/>
   </a>
-  <a href="https://github.com/Esha-Mirza">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esha-Mirza&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=D41451&text_color=FFFFFF" alt="Top Languages"/>
+  <a href="https://github.com/Esha-Mirza?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repos-View%20All-6D001A?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Esha-Mirza?tab=stars">
+    <img src="https://img.shields.io/badge/Starred%20Repos-View%20All-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <br/><br/>
+</div>
+
+<br/>
+
+<div align="center">
 
   <a href="https://github.com/Esha-Mirza">
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Esha-Mirza&hide_border=true&background=0D0D0D&stroke=6D001A&ring=D41451&fire=D41451&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
+    <img src="https://img.shields.io/badge/View%20Full%20Contribution%20Graph%20on%20GitHub-6D001A?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
 </div>
