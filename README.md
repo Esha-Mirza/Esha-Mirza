@@ -152,10 +152,16 @@ I enjoy taking an idea from <strong>prototype → working system → usable inte
 <!-- GITHUB STATS -->
 ## GitHub Stats
 
+<div align="center">
+
 
 ![](https://github-readme-stats.shion.dev/api?username=Esha-Mirza&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Esha-Mirza&theme=shadow_red&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Esha-Mirza&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=truelayout=compact)
+
+![CommitPulse](https://commitpulse.vercel.app/api/streak?user=Esha-Mirza1623)
+
+</div>
 
 <br/>
 
