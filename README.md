@@ -154,12 +154,14 @@ I enjoy taking an idea from <strong>prototype → working system → usable inte
 
 <div align="center">
 
-
+<p>
+<img height="165" src="https://streak-stats.demolab.com/?user=Esha-Mirza&hide_border=true&background=0D0D0D&stroke=6D001A&ring=D41451&fire=D41451&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+</p>
 ![](https://github-readme-stats.shion.dev/api?username=Esha-Mirza&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Esha-Mirza&theme=shadow_red&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Esha-Mirza&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=truelayout=compact)
 
-[![GitHub Activity Graph](https://vercel.app)](https://github.com/Esha-Mirza/github-readme-activity-graph)
+
 
 </div>
 
