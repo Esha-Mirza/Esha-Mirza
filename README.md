@@ -156,7 +156,7 @@ I enjoy taking an idea from <strong>prototype → working system → usable inte
 
 ![](https://github-readme-stats.shion.dev/api?username=Esha-Mirza&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Esha-Mirza&theme=shadow_red&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Esha-Mirza&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![.](https://githubreadmestats.shion.dev/api/toplangs/username=EshaMirza&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compac)
 
 </div>
 
