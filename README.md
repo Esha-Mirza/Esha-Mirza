@@ -161,7 +161,7 @@ I enjoy taking an idea from <strong>prototype → working system → usable inte
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Esha-Mirza&theme=shadow_red&hide_border=false&background=0D0D0D&include_all_commits=true&count_private=truelayout=compact)
 
 
-[Snake animation](https://github.com/Esha-Mirza/Esha-Mirza/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 
 </div>
