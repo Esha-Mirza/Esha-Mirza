@@ -154,22 +154,9 @@ I enjoy taking an idea from <strong>prototype → working system → usable inte
 
 <div align="center">
 
-  <a href="https://github.com/Esha-Mirza">
-    <img src="./assets/github-stats.svg" height="180" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/Esha-Mirza">
-    <img src="./assets/top-langs.svg" height="180" alt="Top Languages"/>
-  </a>
-
-  <br/><br/>
-
-  <a href="https://github.com/Esha-Mirza">
-    <img src="./assets/streak-stats.svg" height="180" alt="GitHub Streak"/>
-  </a>
-
-  <br/><br/>
-
-  <img src="./assets/activity-graph.svg" width="95%" alt="Contribution Graph"/>
+![](https://github-readme-stats.shion.dev/api?username=Esha-Mirza&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Esha-Mirza&theme=shadow_red&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Esha-Mirza&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
