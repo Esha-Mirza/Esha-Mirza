@@ -5,17 +5,25 @@
 
 <!-- SOCIAL BADGES -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/esha-mirza1623"><img src="https://img.shields.io/badge/LinkedIn-6D001A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/Esha-Mirza"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:esha101374@gmail.com"><img src="https://img.shields.io/badge/Email-6D001A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://esha-mirza.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/esha-mirza1623">
+    <img src="https://img.shields.io/badge/LinkedIn-6D001A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Esha-Mirza">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:esha101374@gmail.com">
+    <img src="https://img.shields.io/badge/Email-6D001A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://esha-mirza.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 <!-- DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:0D0D0D&height=2&section=header" width="100%"/>
 
 <!-- ABOUT ME -->
-## 👩‍💻 About Me
+## About Me
 
 <table>
   <tr>
@@ -38,7 +46,9 @@
     <td width="40%" align="center" valign="middle">
       <img src="https://github.com/Esha-Mirza.png" width="80%" style="border-radius:50%;" alt="Esha Mirza"/>
       <br/><br/>
-      <a href="https://esha-mirza.github.io/"><img src="https://img.shields.io/badge/Explore%20My%20Portfolio-6D001A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/></a>
+      <a href="https://esha-mirza.github.io/">
+        <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-6D001A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
+      </a>
     </td>
   </tr>
 </table>
@@ -46,26 +56,8 @@
 <!-- DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:0D0D0D&height=2&section=header" width="100%"/>
 
-<!-- AI & ML EXPERTISE MATRIX -->
-## 🧠 AI & ML Expertise Matrix
-
-<div align="center">
-
-| Domain | Proficiency | Key Focus Areas |
-| :--- | :--- | :--- |
-| **LLMs & RAG Pipelines** | `██████████` 95% | Vector DBs, LangChain, Hybrid Search, Context Optimization |
-| **Agentic AI & Multi-Agent Systems** | `█████████░` 90% | Autonomous Workflows, Tool Calling, Multi-Agent Orchestration |
-| **Computer Vision** | `████████░░` 80% | OpenCV, Object Detection, Image Preprocessing |
-| **Voice-Based AI Systems** | `████████░░` 80% | Speech-to-Text, Voice Agent Pipelines, Audio Processing |
-| **Traditional ML & Data Science** | `█████████░` 85% | Feature Engineering, Classification, Predictive Analytics |
-
-</div>
-
-<!-- DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:0D0D0D&height=2&section=header" width="100%"/>
-
 <!-- TECH STACK -->
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
   <table>
@@ -110,7 +102,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:0D0D0D&height=2&section=header" width="100%"/>
 
 <!-- FEATURED PROJECTS -->
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
@@ -123,22 +115,14 @@
 <!-- DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:0D0D0D&height=2&section=header" width="100%"/>
 
-<!-- GITHUB STATS & METRICS -->
-## 📊 GitHub Analytics & Activity
+<!-- GITHUB STATS -->
+## GitHub Analytics
 
 <div align="center">
-  <!-- Visitor Badge Counter -->
-  <img src="https://komarev.com/ghpvc/?username=Esha-Mirza&label=PROFILE+VISITS&color=6D001A&style=for-the-badge" alt="Visitor Counter"/>
-  <br/><br/>
-  
-  <!-- Contribution Activity Graph -->
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Esha-Mirza&theme=react-dark&bg_color=0D0D0D&color=6D001A&line=D41451&point=FFFFFF&hide_border=true" alt="Commit Activity Graph"/>
-  <br/><br/>
-
-  <!-- Stats Cards -->
   <img height="165" src="https://streak-stats.demolab.com/?user=Esha-Mirza&hide_border=true&background=0D0D0D&stroke=6D001A&ring=D41451&fire=D41451&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Streak Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Esha-Mirza&theme=shadow_red&hide_border=false&bg_color=0D0D0D&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esha-Mirza&theme=shadow_red&hide_border=false&bg_color=0D0D0D&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  <br/><br/>
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=Esha-Mirza&theme=shadow_red&hide_border=false&background=0D0D0D&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Esha-Mirza&theme=shadow_red&hide_border=false&background=0D0D0D&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </div>
 
 <!-- DIVIDER -->
@@ -149,8 +133,13 @@
   <h3>Let's build something together.</h3>
   <p><em>Currently open to ML Engineering internships & entry-level roles</em></p>
   <br/>
-  <a href="https://www.linkedin.com/in/esha-mirza1623"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-6D001A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:esha101374@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/esha-mirza1623">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-6D001A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:esha101374@gmail.com">
+    <img src="https://img.shields.io/badge/Send%20an%20Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </div>
 
 <br/>
