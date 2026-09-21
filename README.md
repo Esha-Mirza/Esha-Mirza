@@ -23,7 +23,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:0D0D0D&height=2&section=header" width="100%"/>
 
 <!-- ABOUT ME -->
-## 👩‍💻 About Me
+## About Me
 
 <table>
   <tr>
@@ -57,7 +57,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:0D0D0D&height=2&section=header" width="100%"/>
 
 <!-- TECH STACK -->
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
   <table>
@@ -102,7 +102,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:0D0D0D&height=2&section=header" width="100%"/>
 
 <!-- FEATURED PROJECTS -->
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
@@ -116,7 +116,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:0D0D0D&height=2&section=header" width="100%"/>
 
 <!-- GITHUB STATS -->
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="165" src="https://streak-stats.demolab.com/?user=Esha-Mirza&hide_border=true&background=0D0D0D&stroke=6D001A&ring=D41451&fire=D41451&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Streak Stats"/>
