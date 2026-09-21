@@ -137,8 +137,8 @@
 
   <!-- Stats Cards -->
   <img height="165" src="https://streak-stats.demolab.com/?user=Esha-Mirza&hide_border=true&background=0D0D0D&stroke=6D001A&ring=D41451&fire=D41451&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Streak Stats"/>
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=Esha-Mirza&theme=shadow_red&hide_border=false&background=0D0D0D&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Esha-Mirza&theme=shadow_red&hide_border=false&background=0D0D0D&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Esha-Mirza&theme=shadow_red&hide_border=false&bg_color=0D0D0D&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esha-Mirza&theme=shadow_red&hide_border=false&bg_color=0D0D0D&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </div>
 
 <!-- DIVIDER -->
