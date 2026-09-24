@@ -1,4 +1,4 @@
-<!-- HEADER BANNER -->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:3D0010,100:6D001A&height=200&section=header&text=ESHA%20MIRZA&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%7C%20BUILDING%20INTELLIGENT%20SYSTEMS&descAlignY=60&descColor=FFFFFF&descSize=18" width="100%" alt="Header Banner"/>
 </div>
