@@ -128,7 +128,7 @@
 <!-- DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:0D0D0D&height=2&section=header" width="100%"/>
 
-<!-- FOOTER CTA -->
+<!-- FOOTER -->
 <div align="center">
   <h3>Let's build something together.</h3>
   <p><em>Currently open to ML Engineering internships & entry-level roles</em></p>
